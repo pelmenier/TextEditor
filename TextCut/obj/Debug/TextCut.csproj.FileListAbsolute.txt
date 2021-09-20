@@ -1,0 +1,10 @@
+C:\Users\Nikita\source\repos\TextCut\TextCut\bin\Debug\TextCut.exe.config
+C:\Users\Nikita\source\repos\TextCut\TextCut\bin\Debug\TextCut.exe
+C:\Users\Nikita\source\repos\TextCut\TextCut\bin\Debug\TextCut.pdb
+C:\Users\Nikita\source\repos\TextCut\TextCut\obj\Debug\TextCut.csprojAssemblyReference.cache
+C:\Users\Nikita\source\repos\TextCut\TextCut\obj\Debug\TextCut.Form1.resources
+C:\Users\Nikita\source\repos\TextCut\TextCut\obj\Debug\TextCut.Properties.Resources.resources
+C:\Users\Nikita\source\repos\TextCut\TextCut\obj\Debug\TextCut.csproj.GenerateResource.cache
+C:\Users\Nikita\source\repos\TextCut\TextCut\obj\Debug\TextCut.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\source\repos\TextCut\TextCut\obj\Debug\TextCut.exe
+C:\Users\Nikita\source\repos\TextCut\TextCut\obj\Debug\TextCut.pdb
