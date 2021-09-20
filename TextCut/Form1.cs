@@ -1,8 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.IO;
-using System.Text;
-using System.Text.RegularExpressions;
 using System.Windows.Forms;
 using TextCut.Models;
 using TextCut.Services;
@@ -55,6 +53,11 @@ namespace TextCut
         private void buttonChooseSaveFolder_Click(object sender, EventArgs e)
         {
             SaveFile();
+        }
+
+        private void forProgrammToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Программа обрабатывает выбранные вами текстовые файлы.\nЧисло N указывает на кол-во символов меньше которых слово будет удалено из текстового файла.\nЕсли файл отмечен в нем будут удалены знаки припенания.\nВыбранные файлы сохранятся в указанную вами директорию.");
         }
         #endregion
 
@@ -149,10 +152,6 @@ namespace TextCut
         }
 
         #endregion
-
-        private void forProgrammToolStripMenuItem_Click(object sender, EventArgs e)
-        {
-            MessageBox.Show("Программа обрабатывает выбранные вами текстовые файлы.\nЧисло N указывает на кол-во символов меньше которых слово будет удалено из текстового файла.\nЕсли файл отмечен в нем будут удалены знаки припенания.\nВыбранные файлы сохранятся в указанную вами директорию.");
-        }
+        
     }
 }
